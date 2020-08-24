@@ -1,4 +1,4 @@
-# A study of different flowering strategies in response to vernalization
+# A study of different flowering strategies in response to vernalization using mathematical modelling
 Implementation of a genetic - physiological model of flowering, designed by Prof. A. Satake.
 
 - The report can be found as a pdf file [here](Report.pdf)
